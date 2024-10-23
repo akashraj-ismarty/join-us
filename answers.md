@@ -5,4 +5,7 @@ Yes, I own a Gaming Laptop(ASUS ROG G16) with a RTX 4060 GPU and i7 Intel core 1
 
 I did development in both Windows and MacOS for both Android and IOS. including C#, python, and javascript. I primarily use Unity Game Engine alongwith VSCode for my development but I also do coding in FLutter through Android Studio as well.
 
+Social Profile:
+StackOverflow Profile: https://stackoverflow.com/users/23954320/akash-raj
+Personal Profile: ismarty.co.in
 
